@@ -1,2 +1,2 @@
 # dewianjani 
-nama saya dewi anjani dipanggil theywee
+Hallo perkenalkan nama saya Dewi Anjani, saya D3 Teknik Informatika. Hari ini saya sedang melakukan Praktikum Pemrograman WEB.
